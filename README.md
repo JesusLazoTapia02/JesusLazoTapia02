@@ -1,19 +1,19 @@
-<h1 align="center">👋 ¡Hola! Soy Jesús Antonio Lazo Tapia</h1>
-<h3 align="center">💻 Estudiante de Ingeniería de Software en la UPC | Apasionado por el desarrollo web full-stack y la innovación tecnológica 🚀</h3>
+<h1 align="center"> Hello! I am Jesús Antonio Lazo Tapia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1> 
+<h3 align="center">💻 Software Engineering student at UPC | Passionate about full-stack web development and technological innovation 🚀</h3>
 
 ---
 
-### 🧠 Sobre mí
-Soy un estudiante de **Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC)**, con experiencia en **desarrollo web full-stack**, **diseño de bases de datos (SQL, MySQL, PostgreSQL, Oracle)** y **administración de redes LAN con Cisco Packet Tracer**.  
-Me encanta resolver problemas mediante código limpio y eficiente, además de aprender nuevas tecnologías constantemente.  
+### 🧠 About Me
+I am a Software Engineering student at the Peruvian University of Applied Sciences (UPC), with experience in full-stack web development, database design (SQL, MySQL, PostgreSQL, Oracle), and LAN network administration using Cisco Packet Tracer.
+I love solving problems with clean and efficient code, and I am constantly learning new technologies.
 
-💡 Actualmente explorando: **Machine Learning, Power BI y Flutter**  
-🎯 Objetivo: Aplicar mis habilidades en proyectos innovadores que generen impacto real.  
-📍 Lima, Perú  
+🎯 Goal: To apply my skills to innovative projects that generate real impact.
+
+📍 Lima, Peru
 
 ---
 
-### ⚙️ Lenguajes y Herramientas
+### ⚙️ Languages ​​and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,html,css,javascript,mysql,postgresql,mongodb,angular,flutter,git,github,linux,vscode,androidstudio,powerbi,cisco" />
@@ -21,27 +21,29 @@ Me encanta resolver problemas mediante código limpio y eficiente, además de ap
 
 ---
 
-### 🚀 Proyectos Académicos Destacados
+### 🚀 Featured Academic Projects
 
-- 🚗 **AutoBrokers:** Plataforma web para conectar usuarios con transportistas.  
-- 🌾 **GrowEasy Innovators:** Sistema IoT para monitoreo de cultivos.  
-- 🐾 **Vetcare:** App móvil en Kotlin para cuidado y ubicación de veterinarios.  
-- 🧠 **AgroTech:** Sistema de gestión de criaderos con optimización de rendimiento.  
+- 🚗 **AutoBrokers:** Web platform to connect users with carriers.
 
----
+- 🌾 **GrowEasy Innovators:** IoT system for crop monitoring.
 
-### 📜 Certificaciones Relevantes
+- 🐾 **Vetcare:** Mobile app in Kotlin for veterinary care and location.
 
-- **Scrum Master** – Scrum.org  
-- **Python y Análisis de Datos** – Coursera  
-- **Analista de Ciberseguridad** – Coursera  
-- **Soporte de TI de Google** – Coursera  
-- **Diseño de Redes LAN (Cisco Packet Tracer)** – UPC  
-- **Power BI para Análisis de Datos** – PUCP  
+- 🧠 **AgroTech:** Farm management system with performance optimization.
 
 ---
 
-### 🤝 Conecta conmigo
+### 📜 Relevant Certifications
+
+- **Scrum Master** – Scrum.org
+- **Python and Data Analysis** – Coursera
+- **Cybersecurity Analyst** – Coursera
+- **Google IT Support** – Coursera
+- **LAN Network Design (Cisco Packet Tracer)** – UPC
+- **Power BI for Data Analysis** – PUCP
+---
+
+### 🤝 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jesuslazotapia" target="_blank">
@@ -52,9 +54,5 @@ Me encanta resolver problemas mediante código limpio y eficiente, además de ap
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
-</p>
-
-<p align="center">
-  ⭐ *“La mejor forma de aprender es construyendo.”*
+  ⭐ “The best way to learn is by building.”
 </p>
