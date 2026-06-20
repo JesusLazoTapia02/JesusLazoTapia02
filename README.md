@@ -4,8 +4,7 @@
 ---
 
 ### 🧠 About Me
-I am a Software Engineering student at the Peruvian University of Applied Sciences (UPC), with experience in full-stack web development, database design (SQL, MySQL, PostgreSQL, Oracle), and LAN network administration using Cisco Packet Tracer.
-I love solving problems with clean and efficient code, and I am constantly learning new technologies.
+I am an eighth-semester Software Engineering student at UPC with experience in systems support, data analysis, web platform management, and digital process support. I am proficient in Python, C#, SQL, Power BI, Git/GitHub, advanced Excel, and IT support tools. I am seeking pre-professional internships in systems analysis, IT support, software development, or data analysis, where I can contribute organizational skills, learning ability, and technical expertise to process improvement.
 
 🎯 Goal: To apply my skills to innovative projects that generate real impact.
 
@@ -35,12 +34,14 @@ I love solving problems with clean and efficient code, and I am constantly learn
 
 ### 📜 Relevant Certifications
 
-- **Scrum Master** – Scrum.org
-- **Python and Data Analysis** – Coursera
-- **Cybersecurity Analyst** – Coursera
-- **Google IT Support** – Coursera
-- **LAN Network Design (Cisco Packet Tracer)** – UPC
-- **Power BI for Data Analysis** – PUCP
+- **Database**
+- **Data Analyst Trainee**
+- **Business Intelligence Trainee**
+- **Application Support**
+- **Systems Analyst Intern**
+- **QA with SQL**
+- **Information Management**
+- **IT Support with Databases**
 ---
 
 ### 🤝 Connect with me
